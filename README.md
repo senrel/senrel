@@ -3,8 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 i like to code
 
-* 🌍  I'm based in berlin
-* 🚀  I'm currently working on sable bot
+* 🌍  I'm based in germany
 
 ## <div align="center">💻 Tech Stack:</div>
 <div align="center">
@@ -35,16 +34,3 @@ i like to code
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="UBUNTU" title="UBUNTU"/></code>
 </div>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/snical" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://discord.com/users/snical" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a></p>
-<a href="https://www.github.com/snical" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/snical?logo=github&style=for-the-badge&color=000000&labelColor=27272a" /></a>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/snical"><img src="https://github-readme-stats.vercel.app/api?username=snical&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=27272a&hide_border=true&show_icons=true" alt="snical's GitHub stats" /></a>
-
-<a href="http://www.github.com/snical"><img src="https://github-readme-streak-stats.herokuapp.com/?user=snical&stroke=ffffff&background=27272a&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/snical" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snical&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=000000&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
