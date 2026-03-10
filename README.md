@@ -35,4 +35,4 @@ i like to code
 Current Projects:
 
 **[Sable](https://sablebot.de)** Multipurpose discord bot written in discord.py
-**[SnapGit]() Git CLI Wrapper written in go. Git without headache.
+**[SnapGit](https://github.com/ovair/snapgit)** Git CLI Wrapper written in go. Git without headache.
