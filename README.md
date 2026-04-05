@@ -31,7 +31,3 @@ i like coding
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="GO" title="GO"/></code>
 </div>
 
-## Current Projects
-
-- **[Sable.](https://sablebot.de)** - Multipurpose discord bot written in discord.py
-- **[SnapGit](https://github.com/ovair/snapgit)** - Git CLI Wrapper written in go. Git without headache.
